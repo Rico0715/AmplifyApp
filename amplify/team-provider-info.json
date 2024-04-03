@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gpffexpo-dev-cb0d7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::058264543024:role/amplify-gpffexpo-dev-cb0d7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::058264543024:role/amplify-gpffexpo-dev-cb0d7-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-gpffexpo-dev-cb0d7-deployment",
+      "UnauthRoleName": "amplify-gpffexpo-dev-cb0d7-unauthRole",
+      "StackName": "amplify-gpffexpo-dev-cb0d7",
+      "StackId": "arn:aws:cloudformation:eu-central-1:058264543024:stack/amplify-gpffexpo-dev-cb0d7/67021c50-f0c1-11ee-93c6-06b1bf22ee3f",
+      "AmplifyAppId": "d2jodf82f8yc35"
+    },
+    "categories": {
+      "storage": {
+        "s3d2f79320": {}
+      },
+      "auth": {
+        "gpffexpoc283c919": {}
+      },
+      "api": {
+        "gpffexpo": {}
+      }
+    }
+  }
+}
